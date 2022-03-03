@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Steven
 - 👀 I’m just taking notes and learning
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on open projects
 - 📫 How to reach me is contact on Twitter
 
